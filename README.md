@@ -6,4 +6,4 @@ Progress!!
 Credits to MyDFR
 
 
-I have put this remake of the project on pause this is because I have interviews to pass this week.,
+I have put this remake of the project on pause this is because I have interviews to pass this week.
