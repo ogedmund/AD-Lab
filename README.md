@@ -4,3 +4,6 @@ Active Directory (home lab) that includes Splunk, Kali Linux & Atomic Red Team. 
 
 Progress!!
 Credits to MyDFR
+
+
+I have put this remake of the project on pause
