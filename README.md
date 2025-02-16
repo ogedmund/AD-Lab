@@ -6,4 +6,4 @@ Progress!!
 Credits to MyDFR 5-part series on youtube
 
 
-I have now officially resum
+I have now officially resume
