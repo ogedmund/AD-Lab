@@ -7,4 +7,4 @@ Credits to MyDFR 5-part series on youtube
 
 
 I have now officially resumed this project
-not quite but soon come i hope fr. yea
+not quite but soon com
